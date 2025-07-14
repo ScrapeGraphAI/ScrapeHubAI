@@ -1,6 +1,6 @@
 # ScrapeHubAI
 
-> 🚀 **Powered by [ScrapeGraphAI](https://scrapegraphai.com/?utm_source=scrapehubai_github&utm_medium=referral&utm_campaign=github)** - The most advanced AI-powered web scraping library
+> 🚀 **Powered by [ScrapeGraphAI](https://scrapegraphai.com/?utm_source=scrapehubai_github&utm_medium=referral&utm_campaign=github)** - The most advanced AI-powered web scraping API
 
 An open-source LangGraph-based agent that analyzes GitHub stargazers, traces them to their companies, and evaluates these companies as potential sales targets for AI scraping infrastructure.
 
