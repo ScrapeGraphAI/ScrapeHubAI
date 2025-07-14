@@ -170,4 +170,4 @@ For issues, questions, or suggestions:
 
 ---
 
-Made with ❤️ for the data intelligence community
+Made with ❤️ from ScrapeGraphAI team
