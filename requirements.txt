@@ -1,0 +1,8 @@
+langgraph>=0.3.27
+langchain>=0.3.14
+langchain-openai>=0.2.14
+scrapegraph-py>=1.14.2
+streamlit>=1.41.1
+python-dotenv>=1.0.1
+requests>=2.32.3
+pytest>=8.3.4
